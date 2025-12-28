@@ -9,3 +9,9 @@
 ### 📫 Reach out to me
 
 ![Mastodon Follow](https://img.shields.io/mastodon/follow/109290405273130397?domain=https%3A%2F%2Ffosstodon.org&style=flat&logo=mastodon&logoColor=%2329a329&color=%2329a329&link=https%3A%2F%2Ffosstodon.org%2F%40stevepiercy)
+
+### 🤑 Support my work
+
+![GitHub Sponsors](https://img.shields.io/github/sponsors/stevepiercy)
+
+![Open Collective backers](https://img.shields.io/opencollective/backers/steve-piercy)
