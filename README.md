@@ -12,6 +12,6 @@
 
 ### 🤑 Support my work
 
-![GitHub Sponsors](https://img.shields.io/github/sponsors/stevepiercy)
+[![GitHub Sponsors](https://img.shields.io/github/sponsors/stevepiercy?style=for-the-badge&color=00cc00&label=GitHub%20sponsors)](https://github.com/sponsors/stevepiercy)
 
-![Open Collective backers](https://img.shields.io/opencollective/backers/steve-piercy)
+[![Open Collective sponsors](https://img.shields.io/opencollective/sponsors/steve-piercy?style=for-the-badge&color=00cc00&label=Open%20Collective%20sponsors)](https://opencollective.com/steve-piercy)
